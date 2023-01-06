@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header style */
+.header {
+    background: url(/images/banner/banner3.png);
+    background-repeat: no-repeat;
+    padding-right: 200px;
+    background-position: top right, left;
+}
+
+/* main text style */
+.title {
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    padding-top: 200px;
+    padding-bottom: 24px;
+    color: #FFFFFF;
+}
+
+.description {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
+/* button style */
+.btn {
+    text-align: right;
+}
+
+.btn-primary {
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    padding: 20px 25px;
+    margin-top: 32px;
+    margin-bottom: 200px;
+    text-align: right;
+}
+
+/* failures style */
+.failure {
+    margin: 131px 240px 0 150px;
+    display: flex;
+    gap: 87px;
+}
+
+.failure-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+
+}
+
+.failure-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+.left-for-img {}
+
+.right-for-text {
+    text-align: left;
+}
+
+.failure-title {
+    margin-top: 240px;
+}
+
+.failure-description {
+    margin-top: 24px;
+}
+
+.failure-points {
+    margin-top: 16px;
+    font-size: 16px;
+    color: #444343;
+    line-height: 2;
+}
+
+
+/* plan */
+.plan {
+    column-width: 80%;
+    text-align: center;
+}
+
+.plan-box {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+.target {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #151414;
+}
+
+.what-to-do {
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    color: #737272;
+
+}
+
+/* gredient */
+.gredient-img {
+    margin: 150px;
+}
+
+.mindset {
+
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+.action {
+    margin-top: -245px;
+    margin-left: 60px;
+}
+
+.footer {
+    background: #151414;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -170px;
+}
+
+.footer-side {
+    margin: 130px 150px;
+    display: flex;
+}
+
+.left-footer-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+
+.footer-para {
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+
+.social-icons {
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.right-footer-title {
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.input {
+    font-size: 18px;
+    margin-top: 30px;
+
+    /* Dark 07 */
+    color: #F3F3F3;
+    padding: 20px 150px 20px 20px;
+}
+
+.btn-subscribe {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 16px;
+
+    color: #FFFFFF;
+    background: #005FAC;
+    border-radius: 8px;
+    padding: 20px 30px;
+}
