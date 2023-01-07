@@ -91,7 +91,7 @@
 }
 
 
-/* plan */
+/* plan style */
 .plan {
     column-width: 80%;
     text-align: center;
@@ -125,7 +125,7 @@
 
 }
 
-/* gredient */
+/* gredient img style */
 .gredient-img {
     margin: 150px;
 }
@@ -136,7 +136,7 @@
     font-size: 40px;
     color: #FFFFFF;
 }
-
+/* footer style */
 .action {
     margin-top: -245px;
     margin-left: 60px;
