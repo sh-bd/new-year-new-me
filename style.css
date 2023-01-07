@@ -80,15 +80,17 @@
 }
 
 .failure-description {
-    margin-top: 24px;
+    margin-top: 24px;    
 }
 
-.failure-points {
+ul {
+    list-style-image: url('./images/icons/vector.png');
     margin-top: 16px;
     font-size: 16px;
     color: #444343;
     line-height: 2;
-}
+    margin-left: -15px;
+  }
 
 
 /* plan style */
